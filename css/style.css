@@ -1,4 +1,19 @@
 
-#rowena{
-    padding-top: 1000px !important;
+body{
+    font-family: 'Bree Serif', serif;
+}
+
+h2,h5{
+    font-weight: bold;
+}
+
+img{
+    width: 100%;
+}
+.rowena{
+   margin: 60px;
+}
+
+.row{
+    background-color: pink;
 }
