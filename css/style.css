@@ -7,6 +7,9 @@ h2,h5{
     font-weight: bold;
 }
 
+.colMed{
+    margin-top: 94px;
+}
 
 .rowena{
    margin: 60px;
@@ -28,7 +31,7 @@ img{
 }
 
 .card-title{
-    width: 100%;
+    width: 80%;
     clear: both;
 
 }
